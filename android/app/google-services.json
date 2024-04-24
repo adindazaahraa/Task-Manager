@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46193535761",
+    "project_id": "taskmanager-firestore",
+    "storage_bucket": "taskmanager-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46193535761:android:4c6f087a8c5fe2e405bab0",
+        "android_client_info": {
+          "package_name": "com.example.task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2J1vrn_2V2DEI9vTR0UW3X-Jh58uKo-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
